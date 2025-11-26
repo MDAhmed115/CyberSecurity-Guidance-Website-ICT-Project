@@ -105,43 +105,77 @@ body{
     margin-bottom: 3%;
 }
 
-.phishing-text{
-    width: 250px;
-    height: 250px;
-    text-align: justify;
-
-}
-
-.phishing-img{
-    width: auto;
-    height: 250px
-}
-
-.phishing{
-    margin-left: 20em;
-    display: inline-block;
-    position: relative;
-}
-
-.phish{
-    text-align: center;
-}
-
-.pass-text{
-    width: 250px;
-    height: 250px;
-    text-align: justify;
-}
 
 .password{
-    margin-left: 20em;
-    display: inline-block;
-    position: relative;
+    margin-right: 0px;
+    margin-left: 75%;
+    width: 350px;
 }
-.pass-img{
-    width: auto;
+
+.password h1{
+    text-align: left;;
+}
+
+.first-row{
+    display: block;
+    position: relative;
+    margin-left: 55%;
+    margin-right: 25%;
+}
+
+.second-row{
+    display: block;
+    position: relative;
+    margin-left: 55%;
+    margin-right: 25%;
+    padding-top: 10%;
+}
+
+.browsing{
+    margin-right: 0px;
+    margin-left: 75%;
+    width: 350px;
+}
+
+.browsing h1{
+    text-align: left;
+}
+
+.safety p{
+    width: 350px;
+    height: auto;
+    text-align: justify;
+    margin-top: 3em;
+    background-color: rgb(248, 206, 151);
+    padding: 20px;
+    border-radius: 30px;
+    color: rgb(99, 41, 0);
+    font-weight: bold;
+}
+
+.safety img{
+    width: 250px;
     height: 250px
 }
-.pass{
+
+table p{
+    width: 250px;
+    height: auto;
+    text-align: justify;
+    margin-top: 20%;
+    background-color: rgb(248, 206, 151);
+    padding: 20px;
+    border-radius: 30px;
+    color: rgb(99, 41, 0);
+    font-weight: bold;
+}
+
+table img{
+    width: 250px;
+    height: 250px
+}
+
+table h1{
     text-align: left;
+    position: relative;
 }
